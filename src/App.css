@@ -36,3 +36,57 @@
     transform: rotate(360deg);
   }
 }
+.all-wrapper{
+  width: 834px;
+    border: 5px solid red;
+    height: 50%;
+    border-radius: 15px;
+}
+.img-wrapper img{
+  height: 146px;
+    margin-top: 15px;
+    margin-left: 10%;
+}
+.item{
+  float: left;
+  text-align: center;
+  margin-left: 18%;
+  margin-top: 1%;
+}
+.text-wrapper{
+  margin-top: 69px;
+  font-family: emoji;
+}
+.btn-wrapper button{
+  margin-top: 69px;
+    padding: 12px;
+    background-color: blue;
+    margin-right: 5;
+    margin-left: 34px;
+    margin-top: 2px;
+    border-radius: 15px;
+    border: none;
+    box-shadow: azure;
+    box-shadow: #333 0px 1px 5px;
+}
+.icon-wrapper img{
+  width: 85px;
+  position: absolute;
+  position: fixed;
+  right: 3%;
+  top: 7%;
+}
+.cart-p{
+  position: absolute;
+  left: 97%;
+  background-color: red;
+  font-size: 22px;
+  margin-top: 29px;
+  margin-left: -37px;
+  border-radius: 50%;
+  width: 40px;
+  height: 39px;
+  text-align: center;
+  color: white;
+
+}
